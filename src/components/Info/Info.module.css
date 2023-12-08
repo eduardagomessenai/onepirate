@@ -1,0 +1,11 @@
+.info {
+  background: #fff5f8;
+  height: 780px;
+}
+
+.info img {
+  width: 100%;
+  z-index: -10;
+}
+
+
